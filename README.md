@@ -10,5 +10,6 @@ Code accompanying my paper [Boosting Pre-trained Language Models with Task Speci
 
 Link to video presentation: [PiCkLe at SemEval 2022](https://aclanthology.org/2022.semeval-1.63.mp4)
 
-Fun fact: This research is not about pickles (or cucumbers). (Reference to emails I received since this email came out) 😅
+Fun fact: This research is not about pickles (or cucumbers). (Reference to emails I received since this paper was published) 😅
+<br>
 <img width="715" alt="image" src="https://github.com/MananSuri27/PatronisingAndCondescendingLanguage/assets/84636031/7672df8b-2e9b-4b3e-9b8a-941e080e189a">
